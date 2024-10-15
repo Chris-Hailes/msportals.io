@@ -31,13 +31,18 @@
       },
       {
         "portalName": "Exchange Admin Center (EAC)",
-        "primaryURL": "https://admin.exchange.microsoft.com",
+        "primaryURL": "https://admin.cloud.microsoft.com/exchange",
         "note": "New"
       },
       {
         "portalName": "Exchange Admin Center (EAC)",
-        "primaryURL": "https://outlook.office365.com/ecp/",
+        "primaryURL": "https://admin.exchange.microsoft.com",
         "note": "Old"
+      },
+      {
+        "portalName": "Exchange Admin Center (EAC)",
+        "primaryURL": "https://outlook.office365.com/ecp/",
+        "note": "Legacy"
       },
       {
         "portalName": "Microsoft Purview",
